@@ -4,7 +4,7 @@ I am Rajnish, a sophomore at IIT Kharagpur currently pursuing major in Economics
 
 - 🔭 I’m currently working on developing mobile application for [MAA-for India](https://github.com/March-Against-Anemia).
 - 🌱 I’m currently learning to build mobile applications.
-- 👯 I’m looking to collaborate on any startup idea.
+- 👯 I’m looking to collaborate on a good startup idea.
 - 📫 Drop your letters at : rajnishkush2@gmail.com
 
 <!--
