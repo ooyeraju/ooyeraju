@@ -3,7 +3,7 @@
 I am Rajnish, a sophomore at IIT Kharagpur currently pursuing major in Economics.
 
 - 🌱 I’m currently learning to build mobile applications.
-- 👯 I’m looking to collaborate on a good startup idea.
+- 👯 I’m looking to collaborate on good ideas.
 - 📫 Drop your letters at : rajnishkush2@gmail.com
 
 <!--
