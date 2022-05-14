@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Rajnish, a sophomore at IIT Kharagpur currently pursuing major in Economics.
+I am Rajnish, a pre-final year student at IIT Kharagpur currently pursuing major in Economics.
 
-- 🌱 I’m currently learning to build mobile applications.
+- 🌱 I’m currently learning equity research and valuations.
 - 👯 I’m looking to collaborate on good ideas.
 - 📫 Drop your letters at : rajnishkush2@gmail.com
 
